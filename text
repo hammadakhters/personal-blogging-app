@@ -1,0 +1,8 @@
+function blogpost(){
+   let text = document.getElementById("text").value;
+   let textarea = document.getElementById("textarea").value;
+
+    console.log(`${text} Submit`);
+    console.log(`${textarea} Submit`);
+
+}
